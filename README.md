@@ -1,5 +1,17 @@
-[![A pixel-art image of Levi](./images/levi-icon.png)](https://levi.dev)
-[![A game-dev icon](./images/dev-icon.png)](https://devlog.levi.dev)
-[![The Twitter icon](./images/twitter-icon.png)](https://twitter.com/levisl)
-[![The Facebook icon](./images/facebook-icon.png)](https://facebook.com/levislindsey)
-[![A pixel-art image of a curled-up sleeping cat](./images/cat-icon.png)](https://snoringcat.games)
+<p align="center">
+  <a href="https://levi.dev"><img
+      src="./images/levi-icon.png"
+      alt="A pixel-art image of Levi"></a>
+  <a href="https://devlog.levi.dev"><img
+      src="./images/dev-icon.png"
+      alt="A game-dev icon"></a>
+  <a href="https://twitter.com/levisl"><img
+      src="./images/twitter-icon.png"
+      alt="The Twitter icon"></a>
+  <a href="https://facebook.com/levislindsey"><img
+      src="./images/facebook-icon.png"
+      alt="The Facebook icon"></a>
+  <a href="https://snoringcat.games"><img
+      src="./images/cat-icon.png"
+      alt="A pixel-art image of a curled-up sleeping cat"></a>
+</p>
